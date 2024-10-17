@@ -40,6 +40,7 @@ N'hésitez pas à ouvrir une [issue](https://discord.gg/VCmNXHvf77) sur le Disco
 - **Docker**
 - **Composer**
 - **Bootstrap**
+-  **Tailwind CSS**
 
 ---
 
