@@ -1,8 +1,4 @@
-# 🌐 CentralCorp
-
-![Stars](https://img.shields.io/github/stars/CentralCorp)
-
-Bienvenue sur la page de **CentralCorp** ! 🚀 Nous développons des solutions innovantes pour centraliser et optimiser la gestion de vos serveurs Minecraft.
+![logo](https://centralcorp.github.io/logo.png)
 
 ---
 
@@ -13,8 +9,6 @@ Découvrez certains de nos projets phares :
 - **CentralCorp Launcher** : Un launcher Minecraft entièrement personnalisable pour votre serveur Minecraft.
 - **CentralCorp Azuriom Plugin** : Un plugin Azuriom pour gérer votre launcher de A à Z.
 - **FileManager** : Simplifiez la gestion des fichiers "public" de votre site Azuriom.
-
-Explorez l'ensemble de nos dépôts sur notre [GitHub](https://github.com/CentralCorp).
 
 ---
 
