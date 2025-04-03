@@ -1,4 +1,4 @@
-![logo](https://centralcorp.github.io/logo.png)
+![logo](https://centralcorp.github.io/assets/img/logo.png)
 
 ---
 
