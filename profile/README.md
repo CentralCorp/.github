@@ -45,6 +45,4 @@ Suivez-nous pour rester à jour sur nos dernières innovations :
 - [Discord](https://discord.gg/VCmNXHvf77)
 
 ---
-![CentralCorp GitHub stats](https://github-readme-stats.vercel.app/api?username=CentralCorp&show_icons=true&theme=cobalt)
-
 ### 🌟 N'oubliez pas de suivre notre organisation ⭐ et de contribuer à nos projets open-source !
